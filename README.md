@@ -58,7 +58,7 @@ python fru_cache_benchmark.py
 ## 🛡️ Attribution
 
 If you use this cache or its design, please credit the author:
-**Aaron Buhr** – GitHub: [@aaronbuhr](https://github.com/aaronbuhr)
+**Aaron Buhr** – GitHub: [@aaronmbuhr](https://github.com/aaronmbuhr)
 
 ---
 

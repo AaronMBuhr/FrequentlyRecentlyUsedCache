@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.env
+.venv/
+*.log
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# General
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+build/
+dist/
+*.png
